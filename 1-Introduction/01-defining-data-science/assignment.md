@@ -20,9 +20,10 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Early warning system | biodata, past grades, current grades | NoSQL | Identify students at risk |
+| Still education | Problem bank | full text, metadata (not semantic) | NoSQL or XML | sort/group problems intelligently, generate review sets |
+| Vaccination | Increase vax uptake | geodata, especially of users not known to be vaccinated | RDBMS, big data| Where to put pop-up vax sites? |
+| Productivity | Distraction | applications used | RDBMS | How much time are we spending on distractions? |
 
 ## Rubric
 
